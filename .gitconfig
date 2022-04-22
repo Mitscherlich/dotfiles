@@ -1,10 +1,6 @@
 [core]
   autocrlf = input
   excludesfile = ~/.gitignore
-[http "https://github.com"]
-  proxy = http://127.0.0.1:10086
-[https "https://github.com"]
-  proxy = http://127.0.0.1:10086
 [color]
   status = auto
   diff = auto
